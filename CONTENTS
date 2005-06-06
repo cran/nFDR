@@ -1,0 +1,11 @@
+Entry: nFDR-internal
+Aliases: Bf hk f.tilde F.tilde
+Keywords: distribution
+Description: Internal nFDR Functions
+URL: ../../../library/nFDR/html/nFDR-internal.html
+
+Entry: nFDR
+Aliases: nFDR
+Keywords: distribution
+Description: Nonparametric Estimate of FDR Based on Bernstein Polynomials
+URL: ../../../library/nFDR/html/nFDR.html

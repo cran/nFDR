@@ -1,0 +1,9 @@
+useDynLib(nFDR)
+
+export(nFDR, Bf, hk, f.tilde, F.tilde)
+
+
+
+
+
+
